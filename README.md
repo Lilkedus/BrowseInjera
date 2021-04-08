@@ -1,6 +1,8 @@
 # BrowseInjera
 A lightweight and minimal Browser, made using PyQt5
 
+*Search Engine comming soon 🔎*
+
 # Installation
 Make sure you have python3 installed
 ```
