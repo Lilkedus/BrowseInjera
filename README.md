@@ -15,4 +15,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 Please make sure to update tests as appropriate.
 
 # License
-Distributed under the [MIT](https://github.com/Lilkedus/["Here"]) License. See [`LICENSE`](https://github.com/Lilkedus/BrowseInjera/blob/master/LICENSE) for more information.
+Distributed under the [MIT](https://github.com/Lilkedus/BrowseInjera]) License. See [`LICENSE`](https://github.com/Lilkedus/BrowseInjera/blob/master/LICENSE) for more information.
