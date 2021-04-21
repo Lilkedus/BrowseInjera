@@ -1,5 +1,5 @@
 # BrowseInjera
-A lightweight and minimal Browser, made using PyQt5
+⚡️ A lightweight and minimal Browser, made using PyQt5
 
 *Search Engine comming soon 🔎*
 
